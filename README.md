@@ -1,4 +1,5 @@
 
+![](#https://www.alura.com.br/assets/img/challenges/logos/challenges-logo-front.1674580905.svg#vitrinedev)
 <section align="center">
 <img src="https://www.alura.com.br/assets/img/challenges/logos/challenges-logo-front.1674580905.svg" alt="Logo da Alura Challenges" width="300px">
 <h1>Challenge Front-End 6ª Edição</h1>
